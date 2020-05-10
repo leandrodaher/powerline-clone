@@ -1,0 +1,13 @@
+body {
+    background-color: #191a21;
+}
+
+canvas {
+    border: 5px solid #282a36;
+    
+    /*redimensionamento temporario
+    width: 320px;
+    height: 240px;*/
+    width: 640px;
+    height: 480px;
+}
